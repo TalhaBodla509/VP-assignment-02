@@ -1,0 +1,16 @@
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233549.exe
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233549.deps.json
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233549.runtimeconfig.json
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233549.dll
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\bin\Debug\net8.0-windows\assignment_02_233549.pdb
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233587.Form1.resources
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233549.csproj.GenerateResource.cache
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233549.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233549.AssemblyInfoInputs.cache
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233549.AssemblyInfo.cs
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233549.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233549.dll
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\refint\assignment_02_233549.dll
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233549.pdb
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\assignment_02_233549.genruntimeconfig.cache
+C:\Users\ABDUL REHMAN\Desktop\assignment_02_233587\obj\Debug\net8.0-windows\ref\assignment_02_233549.dll
